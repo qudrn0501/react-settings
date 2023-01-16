@@ -3,7 +3,7 @@ import "./Sub1.css";
 
 const Sub1 = () => {
   return (
-    <div>
+    <div className='h-screen'>
       <h1>Welcome to subpage 1</h1>
     </div>
   )
