@@ -1,0 +1,19 @@
+.heart {
+  background: url(../../../public/images/heart.svg);
+  width: 24px; height: 24px;
+}
+
+.heart-on {
+  background: url(../../../public/images/heart-on.svg);
+  width: 24px; height: 24px;
+}
+
+.post-border {
+  border-top: 1px solid rgb(64, 64, 64);
+  border-bottom: 1px solid rgb(64, 64, 64);
+}
+
+.comment {
+  background: url(../../../public/images/comment.svg);
+  width: 24px; height: 24px;
+}
